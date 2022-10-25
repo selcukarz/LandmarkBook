@@ -13,6 +13,7 @@
 		CFB92EFE29082185001918D3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFB92EFC29082185001918D3 /* Main.storyboard */; };
 		CFB92F0029082186001918D3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CFB92EFF29082186001918D3 /* Assets.xcassets */; };
 		CFB92F0329082186001918D3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CFB92F0129082186001918D3 /* LaunchScreen.storyboard */; };
+		CFB92F0B2908489F001918D3 /* DetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFB92F0A2908489F001918D3 /* DetailVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CFB92EFF29082186001918D3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CFB92F0229082186001918D3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CFB92F0429082186001918D3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CFB92F0A2908489F001918D3 /* DetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CFB92EF629082185001918D3 /* AppDelegate.swift */,
 				CFB92EF829082185001918D3 /* SceneDelegate.swift */,
 				CFB92EFA29082185001918D3 /* ViewController.swift */,
+				CFB92F0A2908489F001918D3 /* DetailVC.swift */,
 				CFB92EFC29082185001918D3 /* Main.storyboard */,
 				CFB92EFF29082186001918D3 /* Assets.xcassets */,
 				CFB92F0129082186001918D3 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				CFB92EFB29082185001918D3 /* ViewController.swift in Sources */,
+				CFB92F0B2908489F001918D3 /* DetailVC.swift in Sources */,
 				CFB92EF729082185001918D3 /* AppDelegate.swift in Sources */,
 				CFB92EF929082185001918D3 /* SceneDelegate.swift in Sources */,
 			);
